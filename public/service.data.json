@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "review": "Exceptional service! The team at Coder Squad went above and beyond to meet our project requirements. Highly recommended.",
+        "profile": "https://static.vecteezy.com/system/resources/thumbnails/029/321/351/small/ai-generative-business-man-in-a-suit-white-transparent-background-photo.jpg"
+    },
+    {
+        "name": "Jane Smith",
+        "review": "Coder Squad delivered outstanding results on our website redesign. Their attention to detail and creativity exceeded our expectations.",
+        "profile": "https://example.com/jane_smith_profile"
+    },
+    {
+        "name": "Alex Johnson",
+        "review": "I had a great experience working with Coder Squad. Their expertise in MERN stack development was instrumental in the success of our project.",
+        "profile": "https://media.istockphoto.com/id/1386217759/photo/portrait-of-a-confident-young-businesswoman-standing-against-an-urban-background.jpg?s=612x612&w=0&k=20&c=fAzBj4UAksz3wwAjXxKxByZMqDSuqQZSTij7jBiPtJc="
+    },
+    {
+        "name": "Emily Brown",
+        "review": "Coder Squad's UI/UX design services significantly improved the overall user experience of our platform. Their designs are both functional and visually appealing.",
+        "profile": "https://static.vecteezy.com/system/resources/thumbnails/023/886/157/small/young-smiling-businesswoman-standing-in-blur-background-of-office-generative-ai-photo.jpg"
+    }
+]

@@ -1,0 +1,61 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Work Sans", sans-serif;
+    background: #151517;
+    min-height: 100vh;
+    color: #EEEEEE;
+}
+swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.banner::before{
+      content: '';
+    z-index: 0;
+    height: 1080px;
+    width: 50%;
+    position: absolute;
+    background: url('https://i.ibb.co/5sP6Rp0/image.png') no-repeat center left;
+    background-size: cover;
+    top: 0;
+    right: 0;
+}
+
+.cert_bg{
+   background: linear-gradient(217.93deg, #a3ff3f10 .94%, #78970f 100%);
+    box-shadow: 0px 23.0431px 38.4051px rgba(26, 32, 44, 0.08)
+}
+@media screen and (max-width: 768px) {
+  .banner::before {
+    height: 650px;
+    background-size: contain;
+    background-position: center right;
+    width: calc(100% - 20px)
+  }
+}
