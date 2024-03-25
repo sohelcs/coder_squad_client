@@ -55,7 +55,7 @@ const RecentWorks = () => {
     }, []);
 
     return (
-        <div className="lg:md:pl-[10.5rem] mx-auto my-auto lg:md:mt-[15rem] mt-20 lg:md:px-6 px-4">
+        <div className="lg:md:ps-[10.5rem] mx-auto my-auto lg:md:mt-[15rem] mt-20 ps-4 ">
             <div>
                 <h2 className="lg:md:text-5xl text-3xl font-bold text-[#eee]">Recent Work</h2>
                 <p className="mb-16 mt-4 lg:md:text-[18px] text-[16px]  text-[#B1B5C3]">We are trusted by top eCommerce brands across the globe and are constantly transforming eCommerce experiences for millions.</p>
@@ -84,7 +84,7 @@ const RecentWorks = () => {
                                         width={600}
                                         height={700}
                                         alt={project.title}
-                                        className="rounded-lg transition-all duration-300 group-hover:filter group-hover:blur-[20px]"
+                                        className="rounded-lg transition-all duration-300 group-hover:filter group-hover:blur-[10px]"
                                     />
                                     <div className="absolute top-0 left-0 w-full h-full bg-black bg-opacity-50 opacity-0 transition-opacity duration-300 hover:opacity-100 flex flex-col justify-center text-white rounded-lg ps-8 cursor-pointer">
                                         <h3 className="text-3xl mb-6 font-semibold">{project.title}</h3>
