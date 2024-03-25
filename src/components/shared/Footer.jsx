@@ -39,7 +39,7 @@ const Footer = () => {
 
           <div>
             <p className="text-[#787E91] uppercase text-[16px] mb-2">SUPPORT INQUIRIES</p>
-            <p className="text-[#eee] text-[16px]">+1 123 456 7890</p>
+            <p className="text-[#eee] text-[16px]">(+1) 347 422 44 30</p>
             <p className="text-[#eee] text-[16px]">codersquadofficial@gmail.com</p>
           </div>
         </div>
@@ -48,9 +48,9 @@ const Footer = () => {
           <h2 className="text-[#eee] text-xl font-semibold mb-6">Office Address</h2>
 
           <div>
-            <p className="text-[#eee] text-[16px]">Level-5, House No : 1332 & 1347</p>
-            <p className="text-[#eee] text-[16px]">Main Road, Avenue 2 </p>
-            <p className="text-[#eee] text-[16px]">Mirpur DOHS, Dhaka - 1246 </p>
+            <p className="text-[#eee] text-[16px] mb-2">New York (USA) HQ: <span className="text-[#787E91]">6011 Metropolitan Avenue, Ridgewood, NY 11385, United States of America</span></p>
+            <p className="text-[#eee] text-[16px] mb-2">Oslo (Norway): <span className="text-[#787E91]">Mosseveien 6A, 0193 Oslo, Norway</span></p>
+            <p className="text-[#eee] text-[16px]">Dhaka: <span className="text-[#787E91]">Level-5, House No : 1332 & 1347, Main Road, Avenue 2, Mirpur DOHS</span></p>
           </div>
         </div>
 
