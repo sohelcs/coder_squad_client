@@ -13,9 +13,9 @@ const WeOffer = () => {
                     <div className="flex items-center gap-x-8">
                         <div className="">
                             <Image
-                                src="https://i.ibb.co/MGj1Vdz/image.png"
+                                src="https://i.ibb.co/Rb0Qg22/Adobe-Stock-471463465-Preview.jpg"
                                 alt="man"
-                                width="450"
+                                width="500"
                                 height="200"
                                 className="rounded-xl"
                             />
@@ -23,19 +23,19 @@ const WeOffer = () => {
                         <div className=" flex flex-col gap-y-8">
                             <div className="">
                                 <Image
-                                    src="https://i.ibb.co/NxJdZvC/image.png"
+                                    src="https://i.ibb.co/7z65tYF/man-Womantalk.jpg"
                                     alt="man"
-                                    width="350"
+                                    width="400"
                                     height="300"
                                     className="rounded-xl"
                                 />
                             </div>
                             <div className="">
                                 <Image
-                                    src="https://i.ibb.co/HTrZjTq/image.png"
+                                    src="https://i.ibb.co/HgsWNgD/womanwrite.jpg"
                                     alt="man"
-                                    width="200"
-                                    height="300"
+                                    width="300"
+                                    height="400"
                                     className="rounded-xl"
                                 />
                             </div>
